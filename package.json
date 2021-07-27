@@ -1,0 +1,14 @@
+{
+  "name": "verida-start-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tim McMackin <tmcmackin@shutterstock.com>",
+  "license": "MIT",
+  "dependencies": {
+    "docz": "^2.3.2-alpha.0",
+    "gatsby": "^3.10.2",
+    "gatsby-theme-docz": "^2.3.1-alpha.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
